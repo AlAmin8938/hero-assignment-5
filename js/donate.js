@@ -38,7 +38,7 @@ function handleDonation(h2Id, inputId, totalId, donationAreaId) {
 
     document.getElementById("donation-modal").classList.remove("hidden");
   } else {
-    alert("Please enter a valid donation amount.");
+    alert("Please put a valid  amount.");
   }
 }
 
